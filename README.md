@@ -4,7 +4,7 @@
 
 **Remember what Keenan said, but not where he said it? Now you can look it up!**
 
-KeenBean is a beta search engine & database for exploring **200+ hours of video** from [Keenan's youtube](https://www.youtube.com/channel/UCZMLNVZW6RVGzyYOfos4TYg). Type a query and find the moments where Keenan talked about a topic — without having to remember the exact words he used.
+KeenBean is a beta search engine & database for exploring **200+ hours of video** from [Keenan's youtube](https://www.youtube.com/channel/UCZMLNVZW6RVGzyYOfos4TYg). Type a query and find the moments where Keenan talked about a topic.
 
 <img width="1920" height="952" alt="image" src="https://github.com/user-attachments/assets/55356038-e022-4c2e-af29-991592e55e66" />
 
