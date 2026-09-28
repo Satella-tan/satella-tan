@@ -1,16 +1,14 @@
-## Hi there 👋
+# hey im satella
 
-<!--
-**Satella-tan/satella-tan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🔎 [Try KeanBean](https://keenbean.site)
 
-Here are some ideas to get you started:
+**Remember what Keenan said, but not where he said it? Now you can look it up!**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+KeenBean is a beta search engine for exploring **200+ hours of video** from [Keenan's youtube](https://www.youtube.com/channel/UCZMLNVZW6RVGzyYOfos4TYg). Type a query and find the moments where Keenan talked about a topic — without having to remember the exact words he used.
+
+<img width="1920" height="952" alt="image" src="https://github.com/user-attachments/assets/55356038-e022-4c2e-af29-991592e55e66" />
+
+The search runs directly in your browser using **semantic embeddings, Transformers.js, and WebAssembly**, with a lightweight client-side architecture.
+
+**→ [Try it at keenbean.site](https://keenbean.site)**
+
